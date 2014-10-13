@@ -1,0 +1,2 @@
+shapeless-scala-bug
+===================
